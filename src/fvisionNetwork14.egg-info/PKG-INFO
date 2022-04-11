@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: fvisionNetwork14
-Version: 0.0.3
+Version: 0.0.4
 Summary: fvisionNetwork14 is classification model, image preprocessing module will preprocess the image, plotting accuracy and loss grapghs plots the graphs
 Home-page: https://github.com/KalyanMohanty/fvisionNetwork14
 Author: Kalyan Mohanty
@@ -16,13 +16,13 @@ Classifier: Programming Language :: Python :: 3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-# Square Number takes an integer as an input and prints it square.
+# fvisionNetwork14
 
 ## Installation
 ```pip install fvisionNetwork14```
 
 ## Description
-version: 0.0.3
+version: 0.0.4
 
 modules:
         - image_preprocessing

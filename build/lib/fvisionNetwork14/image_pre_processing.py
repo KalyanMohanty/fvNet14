@@ -19,7 +19,7 @@ def image_preprocessing( path, image_height, image_width):
   class_label =  class names(categorical)
 
   dependency module:
-    tensorflow, os
+    tensorflow
 
 
   '''

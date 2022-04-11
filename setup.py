@@ -11,7 +11,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="fvisionNetwork14",
-    version="0.0.3",
+    version="0.0.4",
     description="fvisionNetwork14 is classification model, image preprocessing module will preprocess the image, plotting accuracy and loss grapghs plots the graphs",
     long_description=README,
     long_description_content_type="text/markdown",

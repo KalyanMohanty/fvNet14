@@ -1,10 +1,10 @@
-# Square Number takes an integer as an input and prints it square.
+# fvisionNetwork14
 
 ## Installation
 ```pip install fvisionNetwork14```
 
 ## Description
-version: 0.0.3
+version: 0.0.4
 
 modules:
         - image_preprocessing
