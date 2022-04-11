@@ -19,6 +19,23 @@ Dependancy modules:
 
 ## How to use?
 e.g:
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Dataset directory</summary>
+  <ol>
+    <li>
+      <a text = "#class A"> About The Project</a>
+    </li>
+    <li>
+      <a text ="#class B">Getting Started</a>
+    </li>
+    <li><a text="#class C">Usage</a></li>
+    <li><a text="#class D">Roadmap</a></li>
+    <li><a text="#class E">Contributing</a></li>
+    <li><a text="#class F">License</a></li>
+  </ol>
+</details>
 ### image_preprocessing
     image_pre_processing.image_preprocessing(path, image_height = 50, image_width = 50)
 
