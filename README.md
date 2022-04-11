@@ -1,4 +1,3 @@
-# Awesome README [![fvisionNetwork14]([![fvisionNetwork14](http://surl.li/bszhp)])]
 # fvisionNetwork14
 
 ## Installation
