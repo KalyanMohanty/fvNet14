@@ -1,31 +1,26 @@
 # fvisionNetwork14
-"fvisionNetwork14" is a CNN model for image classification that can categorise "n" classes. It has been tuned to have less codes than other models with higher code complexity. The model can categorise with improved accuracy with just a few lines of code. The dataset can be immediately fed into the model using an image pre-processing module that has been built into the package. Two graphical modules are given for plotting model accuracy and loss by providing model history as input.
+"fvisionNetwork14" is a CNN model for image classification that can categorize "n" classes. It has been tuned to have less codes than other models with higher code complexity. The model can categorize with improved accuracy with just a few lines of code. The dataset can be immediately fed into the model using an image pre-processing module that has been built into the package. Two graphical modules are given for plotting model accuracy and loss by providing model history as input.
 
 ## Installation
 
 ```pip install fvisionNetwork14```
 
 ## Released version
-version: 0.0.6
-
-## Description
-version: 0.0.5
+version: 0.0.9
 
 <!DOCTYPE html>
-<html>
-<body>
+<h2> Modules:</h2>
   <li>fvNet14</li>
   <li>image_preprocessing</li>
   <li>plot_accuracy</li>
   <li>plot_loss</li>  
 </ul>
-<h2> pre-requisites:</h2>
+<h2> Pre-requisites:</h2>
     <li>tensorflow</li>
-<h2> pre-Dependancy modules:</h2>
+<h2> Dependancy modules:</h2>
     <li>numpy</li>
     <li>matplotlib</li>
-</body>
-</html>
+
 
 ## How to use?
 

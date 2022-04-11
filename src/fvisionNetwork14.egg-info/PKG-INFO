@@ -1,44 +1,41 @@
 Metadata-Version: 2.1
 Name: fvisionNetwork14
-Version: 0.0.6
+Version: 0.0.9
 Summary: fvisionNetwork14 is an image classification CNN model that can classify the  number of classes.
 Home-page: https://github.com/KalyanMohanty/fvisionNetwork14
 Author: Kalyan Mohanty
 Author-email: kalyanrisingstar@gmail.com
 License: MIT
 Description: # fvisionNetwork14
-        
-        "fvisionNetwork14" is a CNN model for image classification that can categorise "n" classes. It has been tuned to have less codes than other models with higher code complexity. The model can categorise with improved accuracy with just a few lines of code. The dataset can be immediately fed into the model using an image pre-processing module that has been built into the package. Two graphical modules are given for plotting model accuracy and loss by providing model history as input.
+        "fvisionNetwork14" is a CNN model for image classification that can categorize "n" classes. It has been tuned to have less codes than other models with higher code complexity. The model can categorize with improved accuracy with just a few lines of code. The dataset can be immediately fed into the model using an image pre-processing module that has been built into the package. Two graphical modules are given for plotting model accuracy and loss by providing model history as input.
         
         ## Installation
         
         ```pip install fvisionNetwork14```
         
         ## Released version
-        version: 0.0.6
+        version: 0.0.9
         
-        <!-- TABLE OF CONTENTS -->
         <!DOCTYPE html>
-        <html>
-        <body>
-        <h2>Modules:</h2>
-        <li>fvNet14</li>
-        <li>image_preprocessing</li>
-        <li>plot_accuracy</li>
-        <li>plot_loss</li>  
+        <h2> Modules:</h2>
+          <li>fvNet14</li>
+          <li>image_preprocessing</li>
+          <li>plot_accuracy</li>
+          <li>plot_loss</li>  
         </ul>
-        <h2> pre-requisites:</h2>
-        <li>tensorflow</li>
-        <h2>Dependancy modules:</h2>
-        <li>numpy</li>
-        <li>matplotlib</li>
-        </body>
-        </html>
+        <h2> Pre-requisites:</h2>
+            <li>tensorflow</li>
+        <h2> Dependancy modules:</h2>
+            <li>numpy</li>
+            <li>matplotlib</li>
+        
         
         ## How to use?
         
         e.g:
+        
         <!DOCTYPE html>
+        
         <!-- TABLE OF CONTENTS -->
         <details>
           <summary>Dataset directory</summary>
