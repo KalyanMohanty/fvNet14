@@ -1,3 +1,4 @@
+import keras
 from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras import models,layers
@@ -48,3 +49,5 @@ def fvNet14(image_height, image_width, color_channel, output_layer):
     model.add(layers.Dense(100,activation=LeakyReLU(alpha=0.01)))
     model.add(layers.Dense(output_layer,activation='softmax'))
     return model
+if __name__ == '__main__':
+    fvNet14()

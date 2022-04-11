@@ -1,8 +1,8 @@
+LICENSE
 MANIFEST.in
 README.md
 setup.py
 src/fvisionNetwork14/__init__.py
-src/fvisionNetwork14/__main__.py
 src/fvisionNetwork14/fvNet14.py
 src/fvisionNetwork14/image_pre_processing.py
 src/fvisionNetwork14/plot_model_acuracy.py

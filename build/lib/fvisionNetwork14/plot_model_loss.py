@@ -27,3 +27,5 @@ def plot_loss(hist,height, width):
   plt.legend()
   plt.grid()
  
+if __name__ == '__main__':
+    plot_loss()

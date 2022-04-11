@@ -27,3 +27,7 @@ def plot_accuracy(hist,height,width):
   plt.ylabel("Accuracy")
   plt.grid()
   plt.legend()
+
+  
+if __name__ == '__main__':
+    plot_accuracy()

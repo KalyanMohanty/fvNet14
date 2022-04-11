@@ -1,5 +1,7 @@
 import os
 import numpy as np
+import tensorflow
+import keras
 from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.preprocessing import image
 
@@ -42,3 +44,7 @@ def image_preprocessing( path, image_height, image_width):
   image_preprocessing.class_label = to_categorical(image_preprocessing.class_label)
   print('Class Names Converted to categorical:',image_preprocessing.class_label.shape)
   image_preprocessing.image_array = image_preprocessing.image_array/255
+
+  
+if __name__ == '__main__':
+    image_preprocessing()
