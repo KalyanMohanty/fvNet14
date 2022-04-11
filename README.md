@@ -11,17 +11,17 @@ version: 0.0.6
 ## Description
 version: 0.0.5
 
-<ul style="list-style-type:circle;">
+<!DOCTYPE html>
+<html>
+<body>
   <li>fvNet14</li>
   <li>image_preprocessing</li>
   <li>plot_accuracy</li>
   <li>plot_loss</li>  
 </ul>
 <h2> pre-requisites:</h2>
-<ul style="list-style-type:circle;">
     <li>tensorflow</li>
 <h2> pre-Dependancy modules:</h2>
-<ul style="list-style-type:circle;">
     <li>numpy</li>
     <li>matplotlib</li>
 </body>
