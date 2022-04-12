@@ -32,7 +32,7 @@ version: 0.0.9
 
 ### image_preprocessing
 
-    image_pre_processing.image_preprocessing(path, image_height = 50, image_width = 50)
+    image_pre_processing.image_preprocessing(dataset_path, image_height = 50, image_width = 50)
 
 ### Splitting train and test data using "image_array" and "class_label" from image_preprocessing module
 
