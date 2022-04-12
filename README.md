@@ -8,7 +8,7 @@
 ```pip install fvisionNetwork14```
 
 ## Released version
-version: 0.0.9
+version: 0.0.11
 
 <!DOCTYPE html>
 <h2> Modules:</h2>

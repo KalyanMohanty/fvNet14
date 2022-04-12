@@ -11,7 +11,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="fvisionNetwork14",
-    version="0.0.9",
+    version="0.0.11",
     description="fvisionNetwork14 is an image classification CNN model that can classify the  number of classes.",
     long_description=README,
     long_description_content_type="text/markdown",
