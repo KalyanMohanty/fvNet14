@@ -1,5 +1,5 @@
 [![fvisionNetwork14][fvisionNetwork14-image]][fvisionNetwork14-url]
-
+[![license][license-image]][license-url]
 # fvisionNetwork14
  > "fvisionNetwork14" is a CNN model for image classification that can categorize "n" classes. It has been tuned to have less codes than other models with higher code complexity. The model can categorize with improved accuracy with just a few lines of code. The dataset can be immediately fed into the model using an image pre-processing module that has been built into the package. Two graphical modules are given for plotting model accuracy and loss by providing model history as input.
 
@@ -61,3 +61,6 @@ This repository is licensed under the MIT license. See LICENSE for details.
 
 [fvisionNetwork14-image]: https://img.shields.io/pypi/v/fvisionNetwork14?style=plastic
 [fvisionNetwork14-url]: https://pypi.org/project/fvisionNetwork14/
+
+[license-image]: https://img.shields.io/github/license/KalyanMohanty/fvisionNetwork14
+[license-url]:https://github.com/KalyanMohanty/fvisionNetwork14/blob/main/LICENSE
