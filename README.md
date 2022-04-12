@@ -41,7 +41,7 @@ version: 0.0.9
 ### fvNet14
 
     deomo_model = fvNet14.fvNet14(image_height = 50, image_width = 50, color_channel = 3, output_layer = 10)
-    deomo_model.compile(loss= 'categorical_crossentropy', optimizer = 'adam', metrics = ['accuracy')
+    deomo_model.compile(loss= 'categorical_crossentropy', optimizer = 'adam', metrics = ['accuracy'])
     history = deomo_model.fit(xtrain,ytrain,epochs=50,validation_data=(xtest,ytest))
 
 ## plot_accuracy
